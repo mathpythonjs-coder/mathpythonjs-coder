@@ -162,17 +162,6 @@ matheus@dev-machine:~$ _
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-## `>` Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mathpythonjs-coder&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## `>` Contribution Graph
 
