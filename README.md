@@ -151,10 +151,10 @@ matheus@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mathpythonjs-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=mathpythonjs-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=C9D1D9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathpythonjs-coder&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpythonjs-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=mathpythonjs-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathpythonjs-coder&theme=react-dark&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FFFFFF&hide_border=true" width="98%"/>
 
